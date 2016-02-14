@@ -1,0 +1,12 @@
+{
+  "name": "mattyhansen/phpdesignpatterns",
+  "description": "PHP Design Patterns",
+  "autoload": {
+    "psr-4": {
+      "DesignPatterns\\": ""
+    }
+  },
+  "require-dev": {
+    "codeception/codeception": "~2.1"
+  }
+}
