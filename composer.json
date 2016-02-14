@@ -1,5 +1,6 @@
 {
   "name": "mattyhansen/phpdesignpatterns",
+  "license": "MIT",
   "description": "PHP Design Patterns",
   "autoload": {
     "psr-4": {
