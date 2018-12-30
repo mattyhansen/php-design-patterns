@@ -1,13 +1,10 @@
 {
-  "name": "mattyhansen/phpdesignpatterns",
+  "name": "mattyhansen/php-design-patterns",
   "license": "MIT",
   "description": "PHP Design Patterns",
   "autoload": {
     "psr-4": {
-      "DesignPatterns\\": ""
+      "DesignPattern\\": ""
     }
-  },
-  "require-dev": {
-    "codeception/codeception": "~2.1"
   }
 }

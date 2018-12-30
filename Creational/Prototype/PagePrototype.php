@@ -1,6 +1,6 @@
 <?php
 
-namespace DesignPatterns\Creational\Prototype;
+namespace DesignPattern\Creational\Prototype;
 
 /**
  * class PagePrototype.

@@ -1,12 +1,13 @@
 <?php
 
-namespace DesignPatterns\Creational\Prototype;
+namespace DesignPattern\Creational\Prototype;
+
 require '../../vendor/autoload.php';
 
 $timeStart = microtime(true);
 define('PAGE_COUNT', 50000);
 
-echo 'Cloning is quicker because it doesn\'t run the constructor<hr/>';
+echo 'Cloning is quicker because it does NOT run the constructor<hr/>';
 
 
 /**
